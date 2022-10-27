@@ -1,0 +1,14 @@
+C:\Users\matti.matikainen\Downloads\WPF_Harjoitus 1\WPF_Harjoitus 1\bin\Debug\WPF_Harjoitus 1.exe.config
+C:\Users\matti.matikainen\Downloads\WPF_Harjoitus 1\WPF_Harjoitus 1\bin\Debug\WPF_Harjoitus 1.exe
+C:\Users\matti.matikainen\Downloads\WPF_Harjoitus 1\WPF_Harjoitus 1\bin\Debug\WPF_Harjoitus 1.pdb
+C:\Users\matti.matikainen\Downloads\WPF_Harjoitus 1\WPF_Harjoitus 1\obj\Debug\WPF_Harjoitus 1.csprojResolveAssemblyReference.cache
+C:\Users\matti.matikainen\Downloads\WPF_Harjoitus 1\WPF_Harjoitus 1\obj\Debug\MainWindow.g.cs
+C:\Users\matti.matikainen\Downloads\WPF_Harjoitus 1\WPF_Harjoitus 1\obj\Debug\App.g.cs
+C:\Users\matti.matikainen\Downloads\WPF_Harjoitus 1\WPF_Harjoitus 1\obj\Debug\WPF_Harjoitus 1_MarkupCompile.cache
+C:\Users\matti.matikainen\Downloads\WPF_Harjoitus 1\WPF_Harjoitus 1\obj\Debug\WPF_Harjoitus 1_MarkupCompile.lref
+C:\Users\matti.matikainen\Downloads\WPF_Harjoitus 1\WPF_Harjoitus 1\obj\Debug\MainWindow.baml
+C:\Users\matti.matikainen\Downloads\WPF_Harjoitus 1\WPF_Harjoitus 1\obj\Debug\WPF_Harjoitus 1.g.resources
+C:\Users\matti.matikainen\Downloads\WPF_Harjoitus 1\WPF_Harjoitus 1\obj\Debug\WPF_Harjoitus_1.Properties.Resources.resources
+C:\Users\matti.matikainen\Downloads\WPF_Harjoitus 1\WPF_Harjoitus 1\obj\Debug\WPF_Harjoitus 1.csproj.GenerateResource.Cache
+C:\Users\matti.matikainen\Downloads\WPF_Harjoitus 1\WPF_Harjoitus 1\obj\Debug\WPF_Harjoitus 1.exe
+C:\Users\matti.matikainen\Downloads\WPF_Harjoitus 1\WPF_Harjoitus 1\obj\Debug\WPF_Harjoitus 1.pdb
